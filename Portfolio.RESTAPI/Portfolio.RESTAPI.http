@@ -1,0 +1,6 @@
+@Portfolio.RESTAPI_HostAddress = http://localhost:5023
+
+GET {{Portfolio.RESTAPI_HostAddress}}/
+Accept: application/json
+
+###

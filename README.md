@@ -5,7 +5,6 @@
 
 Introduktion
 
-Detta projekt är en utvecklarportfölj som visar mina tidigare projekt och kompetenser. Portföljen är driftsatt på Azure och innehåller en rad sektioner såsom:
 - Porträttbild
 - Ladda ner CV-knapp
 - Navbar med länkar till sociala medier och GitHub
@@ -16,8 +15,6 @@ Detta projekt är en utvecklarportfölj som visar mina tidigare projekt och komp
 - Kontaktformulär
 - Footer
 
-Utöver portföljen har jag också byggt en .NET REST-API som innehåller information om mina tidigare projekt (t.ex. BankAppen, Annons API med mera). API:et är driftsatt på Azure och konsumeras dynamiskt i portföljen genom att loopa igenom och visa projektinformation i form av "produktboxar".
-
 ## Teknologier och Stack
 
 - **Frontend:**
@@ -25,7 +22,6 @@ Utöver portföljen har jag också byggt en .NET REST-API som innehåller inform
 
 - **Backend / API:**  
   .NET REST-API med C#  
-  Driftsatt på Azure
 
 - **Övriga verktyg:**  
   Git & GitHub för versionskontroll  
